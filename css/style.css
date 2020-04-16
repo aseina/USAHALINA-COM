@@ -1,0 +1,29 @@
+body {
+    font-family: monospace;
+}
+
+#wrapper-utama {
+    background-color: aqua;
+}
+
+#navigasi-utama {
+    background-color: salmon;
+}
+
+#logo-kanan {
+    padding: 20;
+    width: 100px;
+    height: 100px;
+}
+
+.menu-utama {
+    list-style: none;
+    display: flex;
+    float:right;
+    padding: 0 20px 0 20px;
+    
+}
+
+.kotak-menu {
+    padding: 0 10px 0 10px;
+}
